@@ -1,26 +1,27 @@
-# to-do-list
-# username=todo
-# password=list
+# Todoapp
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
+## Development server
 
-#**use the above cridentials to signin**
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Code scaffolding
 
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-#**on the dashboard click on AddNewTask**
+## Build
 
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Running unit tests
 
-#**on the To-Do-List page input a task and date then press enter**
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
+## Running end-to-end tests
 
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Further help
 
-#**click on the circle by the inputed task to check a complited task and click the x to delet or remove a task**
-
-
-
-
-
-#**click on All to view all task, click on Active to view active task and click on complited to view complited task**
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
